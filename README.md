@@ -35,3 +35,11 @@ Solutions are organized by platform, topic, and problem name:
     ├── 📂 03-Arrays
     ├── 📂 07-Trees
     └── 📂 15-Graphs
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/samakshkunden/dsa-progress/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
