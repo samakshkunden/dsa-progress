@@ -42,4 +42,5 @@ Solutions are organized by platform, topic, and problem name:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/samakshkunden/dsa-progress/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/samakshkunden/dsa-progress/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
