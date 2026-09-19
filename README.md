@@ -1,30 +1,37 @@
-# ⚡ NeetCode Submissions
+# ⚡ DSA Practice Solutions
 
 [![NeetCode](https://img.shields.io/badge/Platform-NeetCode.io-8A2BE2?style=flat-square&logo=leetcode)](https://neetcode.io)
+[![Striver's A2Z Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z%20DSA-red?style=flat-square&logo=leetcode)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 [![Automated Sync](https://img.shields.io/badge/Sync-Automated-success?style=flat-square&logo=github)](https://github.com/samakshkunden/neetcode-submissions)
-[![Solutions](https://img.shields.io/badge/Solutions-3%20Completed-blue?style=flat-square)](#-repository-structure)
+[![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20TypeScript%20%7C%20C%2B%2B%20%7C%20Java-blue?style=flat-square)](#-tech-stack)
 
-Welcome to my personal collection of Data Structures & Algorithms solutions. All code written here is automatically synced from my submissions on [NeetCode.io](https://neetcode.io).
+Welcome to my personal Data Structures & Algorithms repository! This repository tracks my practice journey across **NeetCode 150** and **Striver's A2Z DSA Sheet**, focusing on clean code, optimal time/space complexities, and consistent problem-solving.
 
 ---
 
-## 🎯 Progress Overview
+## 🎯 Progress & Tracker
 
-| Category | Solved | Primary Languages |
-| :--- | :---: | :--- |
-| **Data Structures & Algorithms** | 3 | `Python` • `TypeScript` |
-| **Core Computer Science** | — | — |
+| Target Sheet | Status | Primary Languages | Focus Areas |
+| :--- | :---: | :--- | :--- |
+| **NeetCode 150 / 250** | 🚀 In Progress | `Python` • `TypeScript` | Arrays, Two Pointers, Binary Search, Trees |
+| **Striver's A2Z DSA Sheet** | 🧠 In Progress | `C++` • `Java` • `Python` | Recursion, Graphs, Dynamic Programming |
 
 ---
 
 ## 📂 Repository Structure
 
-Solutions are categorized automatically by core topic and problem ID:
+Solutions are organized by platform, topic, and problem name:
 
 ```text
 📁 neetcode-submissions
- └── 📂 Data Structures & Algorithms
-      ├── 📂 two-integer-sum
-      │    └── 📄 submission-0.py
-      └── 📂 binary-search
-           └── 📄 submission-0.ts
+├── 📂 Data Structures & Algorithms
+│   ├── 📂 two-integer-sum
+│   │   └── 📄 submission-0.py
+│   ├── 📂 binary-search
+│   │   └── 📄 submission-0.ts
+│   └── ...
+└── 📂 Striver-A2Z-Sheet
+    ├── 📂 01-Basics
+    ├── 📂 03-Arrays
+    ├── 📂 07-Trees
+    └── 📂 15-Graphs
