@@ -1,37 +1,29 @@
 # ⚡ DSA Practice Solutions
 
-[![NeetCode](https://img.shields.io/badge/Platform-NeetCode.io-8A2BE2)](https://neetcode.io/)
-[![Striver's A2Z Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z%20DSA-ff69b4)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-[![Automated Sync](https://img.shields.io/badge/Sync-Automated-brightgreen)](#)
-[![Languages](https://img.shields.io/badge/Languages-Java-orange)](#)
-
-Welcome to my personal Data Structures & Algorithms repository! This repository tracks my practice journey across **NeetCode 150** and **Striver's A2Z DSA Sheet**, focusing on clean Java solutions, optimal time/space complexities, and consistent problem-solving.
+My personal collection of Data Structures and Algorithms solutions written in **Java**, tracking my progress across **NeetCode 150** and **Striver's A2Z DSA Sheet**.
 
 ---
 
 ## 🎯 Progress & Tracker
 
-| Target Sheet | Status | Primary Language | Focus Areas |
+| Resource | Status | Focus Topics | Source / Setup |
 | :--- | :--- | :--- | :--- |
-| **NeetCode 150 / 250** | 🚀 In Progress | Java | Arrays, Two Pointers, Binary Search, Trees |
-| **Striver's A2Z DSA Sheet** | 🧠 In Progress | Java | Recursion, Graphs, Dynamic Programming |
+| **NeetCode 150** | 🚀 In Progress | Arrays, Two Pointers, Binary Search, Trees | Auto-synced via LeetHub |
+| **Striver's A2Z Sheet** | 🧠 In Progress | Basic Math, Recursion, DP, Graphs | Local Java solutions & platform submissions |
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ How to Run Local Solutions
 
-Solutions are organized by platform, topic, and problem name:
+For local practice files (e.g., basic math, recursion, and core concepts):
 
-```text
-📁 neetcode-submissions
-├── 📂 Data Structures & Algorithms
-│   ├── 📂 two-integer-sum
-│   │   └── 📄 Solution.java
-│   ├── 📂 binary-search
-│   │   └── 📄 Solution.java
-│   └── ...
-└── 📂 Striver-A2Z-Sheet
-    ├── 📂 01-Basics
-    ├── 📂 03-Arrays
-    ├── 📂 07-Trees
-    └── 📂 15-Graphs
+```bash
+# Clone the repository
+git clone [https://github.com/samakshkunden/dsa-progress.git](https://github.com/samakshkunden/dsa-progress.git)
+
+# Navigate into the project
+cd dsa-progress
+
+# Compile and run any local Java file
+javac armstrong_no.java
+java armstrong_no
